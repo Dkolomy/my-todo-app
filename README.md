@@ -2,6 +2,10 @@
 
 A simple and fast Todo list application built with React, TypeScript, and Vite.
 
+## Live Demo
+
+- https://dkolomy.github.io/my-todo-app/
+
 ## Features
 
 - Add new tasks
